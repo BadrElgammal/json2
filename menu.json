@@ -1,0 +1,503 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "price": "15.99",
+        "category": "Pasta",
+        "description": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca).",
+        "images": [
+            "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=2048x2048&w=is&k=20&c=nrTkIcyFNS48IRSX5wN2kotITntZzlOki9vjyRibf0w=",
+            "https://media.istockphoto.com/id/1475059886/photo/pasta-spaghetti-with-meat-ball-in-tomato-sauce-top-view.jpg?s=2048x2048&w=is&k=20&c=T00SM4dYttca2b3kONvhkcV8FU2Tn_4BEcevUdcGm-Y=",
+            "https://cdn.pixabay.com/photo/2020/01/08/13/13/spaghetti-4750055_1280.jpg",
+            "https://www.themealdb.com/images/category/pasta.png"
+        ]
+    },
+    {
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "category": "Pizza",
+        "description": "Traditional Italian pizza topped with tomatoes, fresh mozzarella, and basil.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2023/05/28/14/13/ai-generated-8023787_1280.jpg",
+            "https://media.istockphoto.com/id/1414575281/photo/a-delicious-and-tasty-italian-pizza-margherita-with-tomatoes-and-buffalo-mozzarella.jpg?s=2048x2048&w=is&k=20&c=VMgkDRJoTv5VLHO4C4SDis7bD4Oiy39SjnQRGDv56FA=",
+            "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_1280.jpg"
+        ]
+    },
+    {
+        "name": "Cheeseburger",
+        "price": "9.99",
+        "category": "Burgers",
+        "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles.",
+        "images": [
+            "https://www.opskrifter.dk/images/recipes/ZzD5mxVWw3HKFO7tvjca5x6nfVsKXzq7Jk5McWtz.jpeg",
+            "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/30/22/55/ai-generated-9010113_1280.jpg",
+            "https://wallpaperaccess.com/full/1727430.jpg"
+        ]
+    },
+    {
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "category": "Salads",
+        "description": "Crisp romaine lettuce, Caesar dressing, croutons, and Parmesan cheese.",
+        "images": [
+            "https://img.taste.com.au/QaDKlckA/taste/2016/11/fresh-summer-vegetable-salad-91664-1.jpeg",
+            "https://s3.amazonaws.com/img.mynetdiary.com/blog/power-salads.jpg",
+            "https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad-recipes.jpg",
+            "https://dishingupbalance.com/wp-content/uploads/2016/07/Mixed-Green-Summer-Salad-6.jpg"
+        ]
+    },
+    {
+        "name": "Chocolate Cake",
+        "price": "6.50",
+        "category": "Desserts",
+        "description": "Rich and moist chocolate cake with a layer of creamy chocolate frosting.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/08/24/06/17/ai-generated-8993347_1280.jpg",
+            "https://cdn.pixabay.com/photo/2022/11/20/23/33/cake-7605481_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/06/21/12/16/cake-8844261_1280.png",
+            "https://cdn.pixabay.com/photo/2024/06/28/06/07/cakes-8858626_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Salmon",
+        "price": "18.99",
+        "category": "Fish",
+        "description": "Perfectly grilled salmon fillet with a side of lemon and herbs.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/05/05/23/00/still-lifes-8742014_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/06/26/21/57/ai-generated-8090928_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/30/16/26/ai-generated-9009649_1280.png",
+            "https://cdn.pixabay.com/photo/2024/03/12/20/35/fish-8629510_1280.png"
+        ]
+    },
+    {
+        "name": "Tiramisu",
+        "price": "5.99",
+        "category": "Desserts",
+        "description": "Traditional Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/01/27/00/35/ai-generated-8534932_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999820_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/02/04/03/41/ai-generated-8551440_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999822_1280.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Chicken",
+        "price": "14.99",
+        "category": "chicken",
+        "description": "Grilled chicken is a classic and healthy dish that highlights the natural flavor of the chicken. The chicken is marinated in a blend of olive oil, lemon juice, garlic, herbs (like rosemary or thyme), and spices to infuse it with a zesty, aromatic taste. It's then grilled to perfection, creating a crispy, slightly charred exterior while keeping the meat tender and juicy on the inside. Grilled chicken is often served with vegetables, salad, or rice, making it a versatile option for a nutritious meal.",
+        "images": [
+            "https://wallpaperaccess.com/full/2836363.jpg",
+            "https://www.gourmetduvillage.com/wp-content/uploads/2017/04/Grilled_Chicken.jpg",
+            "https://www.thecookierookie.com/wp-content/uploads/2023/06/Garlic-Herb-Grilled-Chicken-1-edited-650x867.jpg",
+            "https://grillingsmokingliving.com/wp-content/uploads/2021/07/Grilled-Spatchcock-Chicken-10.jpg"
+        ]
+    },
+    {
+        "name": "Chicken Shawarma",
+        "price": "13.50",
+        "category": "chicken",
+        "description": "Chicken Shawarma is a flavorful Middle Eastern dish made by marinating thin slices of chicken in a mixture of yogurt, garlic, lemon juice, and spices such as cumin, coriander, and paprika. The marinated chicken is then roasted on a vertical rotisserie until it’s tender and juicy, often with a slight char on the edges. The chicken is shaved off and typically served in a pita or flatbread, accompanied by toppings like tahini, garlic sauce, pickles, tomatoes, and onions, creating a delicious wrap or sandwich with a burst of bold, savory flavors.",
+        "images": [
+            "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Shawarma.jpg",
+            "https://diyjoy.com/wp-content/uploads/2022/01/How-to-Make-Chicken-Shawarma-Arabic-Style.jpg",
+            "https://tableandflavor.com/wp-content/uploads/2021/12/7837-chicken-shawarma-recipe-by-tiffin-box.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=1xw:0.843328335832084xh;center,top&resize=1200:*"
+        ]
+    },
+    {
+        "name": "Grilled Beef",
+        "price": "12.75",
+        "category": "Beef",
+        "description": "Grilled beef is a simple and delicious dish made by seasoning regular cuts of beef, like steaks or ribeye, with salt, pepper, and olive oil. The beef is then cooked on a grill or pan at high heat, creating a beautiful sear on the outside while keeping the inside tender and juicy. Depending on your preference, it can be grilled to rare, medium, or well-done. It's often served with sides like vegetables, rice, or potatoes, making it a versatile and filling option for a meal.",
+        "images": [
+            "https://thumbs.dreamstime.com/b/beef-steak-grill-flames-67556757.jpg",
+            "https://static3.bigstockphoto.com/0/7/2/large2/270367888.jpg",
+            "https://www.kidney.org/sites/default/files/grilled_marinated_beef_steak.jpg",
+            "https://image.shutterstock.com/image-photo/grilled-beef-steak-260nw-1127568536.jpg"
+        ]
+    },
+
+
+
+
+
+    {
+        "name": "Spaghetti Carbonara",
+        "price": "15.99",
+        "category": "Pasta",
+        "description": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca).",
+        "images": [
+            "https://media.istockphoto.com/id/1475059886/photo/pasta-spaghetti-with-meat-ball-in-tomato-sauce-top-view.jpg?s=2048x2048&w=is&k=20&c=T00SM4dYttca2b3kONvhkcV8FU2Tn_4BEcevUdcGm-Y=",
+            "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=2048x2048&w=is&k=20&c=nrTkIcyFNS48IRSX5wN2kotITntZzlOki9vjyRibf0w=",
+            "https://cdn.pixabay.com/photo/2020/01/08/13/13/spaghetti-4750055_1280.jpg",
+            "https://www.themealdb.com/images/category/pasta.png"
+        ]
+    },
+    {
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "category": "Pizza",
+        "description": "Traditional Italian pizza topped with tomatoes, fresh mozzarella, and basil.",
+        "images": [
+            "https://media.istockphoto.com/id/1414575281/photo/a-delicious-and-tasty-italian-pizza-margherita-with-tomatoes-and-buffalo-mozzarella.jpg?s=2048x2048&w=is&k=20&c=VMgkDRJoTv5VLHO4C4SDis7bD4Oiy39SjnQRGDv56FA=",
+            "https://cdn.pixabay.com/photo/2023/05/28/14/13/ai-generated-8023787_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_1280.jpg"
+        ]
+    },
+    {
+        "name": "Cheeseburger",
+        "price": "9.99",
+        "category": "Burgers",
+        "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+            "https://www.opskrifter.dk/images/recipes/ZzD5mxVWw3HKFO7tvjca5x6nfVsKXzq7Jk5McWtz.jpeg",
+            "https://cdn.pixabay.com/photo/2024/08/30/22/55/ai-generated-9010113_1280.jpg",
+            "https://wallpaperaccess.com/full/1727430.jpg"
+        ]
+    },
+    {
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "category": "Salads",
+        "description": "Crisp romaine lettuce, Caesar dressing, croutons, and Parmesan cheese.",
+        "images": [
+            "https://s3.amazonaws.com/img.mynetdiary.com/blog/power-salads.jpg",
+            "https://img.taste.com.au/QaDKlckA/taste/2016/11/fresh-summer-vegetable-salad-91664-1.jpeg",
+            "https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad-recipes.jpg",
+            "https://dishingupbalance.com/wp-content/uploads/2016/07/Mixed-Green-Summer-Salad-6.jpg"
+        ]
+    },
+    {
+        "name": "Chocolate Cake",
+        "price": "6.50",
+        "category": "Desserts",
+        "description": "Rich and moist chocolate cake with a layer of creamy chocolate frosting.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2022/11/20/23/33/cake-7605481_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/24/06/17/ai-generated-8993347_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/06/21/12/16/cake-8844261_1280.png",
+            "https://cdn.pixabay.com/photo/2024/06/28/06/07/cakes-8858626_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Salmon",
+        "price": "18.99",
+        "category": "Fish",
+        "description": "Perfectly grilled salmon fillet with a side of lemon and herbs.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2023/06/26/21/57/ai-generated-8090928_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/05/05/23/00/still-lifes-8742014_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/30/16/26/ai-generated-9009649_1280.png",
+            "https://cdn.pixabay.com/photo/2024/03/12/20/35/fish-8629510_1280.png"
+        ]
+    },
+    {
+        "name": "Tiramisu",
+        "price": "5.99",
+        "category": "Desserts",
+        "description": "Traditional Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999820_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/01/27/00/35/ai-generated-8534932_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/02/04/03/41/ai-generated-8551440_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999822_1280.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Chicken",
+        "price": "14.99",
+        "category": "chicken",
+        "description": "Grilled chicken is a classic and healthy dish that highlights the natural flavor of the chicken. The chicken is marinated in a blend of olive oil, lemon juice, garlic, herbs (like rosemary or thyme), and spices to infuse it with a zesty, aromatic taste. It's then grilled to perfection, creating a crispy, slightly charred exterior while keeping the meat tender and juicy on the inside. Grilled chicken is often served with vegetables, salad, or rice, making it a versatile option for a nutritious meal.",
+        "images": [
+            "https://www.gourmetduvillage.com/wp-content/uploads/2017/04/Grilled_Chicken.jpg",
+            "https://wallpaperaccess.com/full/2836363.jpg",
+            "https://www.thecookierookie.com/wp-content/uploads/2023/06/Garlic-Herb-Grilled-Chicken-1-edited-650x867.jpg",
+            "https://grillingsmokingliving.com/wp-content/uploads/2021/07/Grilled-Spatchcock-Chicken-10.jpg"
+        ]
+    },
+    {
+        "name": "Chicken Shawarma",
+        "price": "13.50",
+        "category": "chicken",
+        "description": "Chicken Shawarma is a flavorful Middle Eastern dish made by marinating thin slices of chicken in a mixture of yogurt, garlic, lemon juice, and spices such as cumin, coriander, and paprika. The marinated chicken is then roasted on a vertical rotisserie until it’s tender and juicy, often with a slight char on the edges. The chicken is shaved off and typically served in a pita or flatbread, accompanied by toppings like tahini, garlic sauce, pickles, tomatoes, and onions, creating a delicious wrap or sandwich with a burst of bold, savory flavors.",
+        "images": [
+            "https://diyjoy.com/wp-content/uploads/2022/01/How-to-Make-Chicken-Shawarma-Arabic-Style.jpg",
+            "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Shawarma.jpg",
+            "https://tableandflavor.com/wp-content/uploads/2021/12/7837-chicken-shawarma-recipe-by-tiffin-box.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=1xw:0.843328335832084xh;center,top&resize=1200:*"
+        ]
+    },
+    {
+        "name": "Grilled Beef",
+        "price": "12.75",
+        "category": "Beef",
+        "description": "Grilled beef is a simple and delicious dish made by seasoning regular cuts of beef, like steaks or ribeye, with salt, pepper, and olive oil. The beef is then cooked on a grill or pan at high heat, creating a beautiful sear on the outside while keeping the inside tender and juicy. Depending on your preference, it can be grilled to rare, medium, or well-done. It's often served with sides like vegetables, rice, or potatoes, making it a versatile and filling option for a meal.",
+        "images": [
+            "https://static3.bigstockphoto.com/0/7/2/large2/270367888.jpg",
+            "https://thumbs.dreamstime.com/b/beef-steak-grill-flames-67556757.jpg",
+            "https://www.kidney.org/sites/default/files/grilled_marinated_beef_steak.jpg",
+            "https://image.shutterstock.com/image-photo/grilled-beef-steak-260nw-1127568536.jpg"
+        ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "name": "Spaghetti Carbonara",
+        "price": "15.99",
+        "category": "Pasta",
+        "description": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca).",
+        "images": [
+            "https://cdn.pixabay.com/photo/2020/01/08/13/13/spaghetti-4750055_1280.jpg",
+            "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=2048x2048&w=is&k=20&c=nrTkIcyFNS48IRSX5wN2kotITntZzlOki9vjyRibf0w=",
+            "https://media.istockphoto.com/id/1475059886/photo/pasta-spaghetti-with-meat-ball-in-tomato-sauce-top-view.jpg?s=2048x2048&w=is&k=20&c=T00SM4dYttca2b3kONvhkcV8FU2Tn_4BEcevUdcGm-Y=",
+            "https://www.themealdb.com/images/category/pasta.png"
+        ]
+    },
+    {
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "category": "Pizza",
+        "description": "Traditional Italian pizza topped with tomatoes, fresh mozzarella, and basil.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/28/14/13/ai-generated-8023787_1280.jpg",
+            "https://media.istockphoto.com/id/1414575281/photo/a-delicious-and-tasty-italian-pizza-margherita-with-tomatoes-and-buffalo-mozzarella.jpg?s=2048x2048&w=is&k=20&c=VMgkDRJoTv5VLHO4C4SDis7bD4Oiy39SjnQRGDv56FA=",
+            "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_1280.jpg"
+        ]
+    },
+    {
+        "name": "Cheeseburger",
+        "price": "9.99",
+        "category": "Burgers",
+        "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/08/30/22/55/ai-generated-9010113_1280.jpg",
+            "https://www.opskrifter.dk/images/recipes/ZzD5mxVWw3HKFO7tvjca5x6nfVsKXzq7Jk5McWtz.jpeg",
+            "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+            "https://wallpaperaccess.com/full/1727430.jpg"
+        ]
+    },
+    {
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "category": "Salads",
+        "description": "Crisp romaine lettuce, Caesar dressing, croutons, and Parmesan cheese.",
+        "images": [
+            "https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad-recipes.jpg",
+            "https://img.taste.com.au/QaDKlckA/taste/2016/11/fresh-summer-vegetable-salad-91664-1.jpeg",
+            "https://s3.amazonaws.com/img.mynetdiary.com/blog/power-salads.jpg",
+            "https://dishingupbalance.com/wp-content/uploads/2016/07/Mixed-Green-Summer-Salad-6.jpg"
+        ]
+    },
+    {
+        "name": "Chocolate Cake",
+        "price": "6.50",
+        "category": "Desserts",
+        "description": "Rich and moist chocolate cake with a layer of creamy chocolate frosting.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/06/21/12/16/cake-8844261_1280.png",
+            "https://cdn.pixabay.com/photo/2024/08/24/06/17/ai-generated-8993347_1280.jpg",
+            "https://cdn.pixabay.com/photo/2022/11/20/23/33/cake-7605481_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/06/28/06/07/cakes-8858626_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Salmon",
+        "price": "18.99",
+        "category": "Fish",
+        "description": "Perfectly grilled salmon fillet with a side of lemon and herbs.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/08/30/16/26/ai-generated-9009649_1280.png",
+            "https://cdn.pixabay.com/photo/2024/05/05/23/00/still-lifes-8742014_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/06/26/21/57/ai-generated-8090928_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/03/12/20/35/fish-8629510_1280.png"
+        ]
+    },
+    {
+        "name": "Tiramisu",
+        "price": "5.99",
+        "category": "Desserts",
+        "description": "Traditional Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/02/04/03/41/ai-generated-8551440_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/01/27/00/35/ai-generated-8534932_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999820_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999822_1280.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Chicken",
+        "price": "14.99",
+        "category": "chicken",
+        "description": "Grilled chicken is a classic and healthy dish that highlights the natural flavor of the chicken. The chicken is marinated in a blend of olive oil, lemon juice, garlic, herbs (like rosemary or thyme), and spices to infuse it with a zesty, aromatic taste. It's then grilled to perfection, creating a crispy, slightly charred exterior while keeping the meat tender and juicy on the inside. Grilled chicken is often served with vegetables, salad, or rice, making it a versatile option for a nutritious meal.",
+        "images": [
+            "https://www.thecookierookie.com/wp-content/uploads/2023/06/Garlic-Herb-Grilled-Chicken-1-edited-650x867.jpg",
+            "https://wallpaperaccess.com/full/2836363.jpg",
+            "https://www.gourmetduvillage.com/wp-content/uploads/2017/04/Grilled_Chicken.jpg",
+            "https://grillingsmokingliving.com/wp-content/uploads/2021/07/Grilled-Spatchcock-Chicken-10.jpg"
+        ]
+    },
+    {
+        "name": "Chicken Shawarma",
+        "price": "13.50",
+        "category": "chicken",
+        "description": "Chicken Shawarma is a flavorful Middle Eastern dish made by marinating thin slices of chicken in a mixture of yogurt, garlic, lemon juice, and spices such as cumin, coriander, and paprika. The marinated chicken is then roasted on a vertical rotisserie until it’s tender and juicy, often with a slight char on the edges. The chicken is shaved off and typically served in a pita or flatbread, accompanied by toppings like tahini, garlic sauce, pickles, tomatoes, and onions, creating a delicious wrap or sandwich with a burst of bold, savory flavors.",
+        "images": [
+            "https://tableandflavor.com/wp-content/uploads/2021/12/7837-chicken-shawarma-recipe-by-tiffin-box.jpg",
+            "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Shawarma.jpg",
+            "https://diyjoy.com/wp-content/uploads/2022/01/How-to-Make-Chicken-Shawarma-Arabic-Style.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=1xw:0.843328335832084xh;center,top&resize=1200:*"
+        ]
+    },
+    {
+        "name": "Grilled Beef",
+        "price": "12.75",
+        "category": "Beef",
+        "description": "Grilled beef is a simple and delicious dish made by seasoning regular cuts of beef, like steaks or ribeye, with salt, pepper, and olive oil. The beef is then cooked on a grill or pan at high heat, creating a beautiful sear on the outside while keeping the inside tender and juicy. Depending on your preference, it can be grilled to rare, medium, or well-done. It's often served with sides like vegetables, rice, or potatoes, making it a versatile and filling option for a meal.",
+        "images": [
+            "https://www.kidney.org/sites/default/files/grilled_marinated_beef_steak.jpg",
+            "https://thumbs.dreamstime.com/b/beef-steak-grill-flames-67556757.jpg",
+            "https://static3.bigstockphoto.com/0/7/2/large2/270367888.jpg",
+            "https://image.shutterstock.com/image-photo/grilled-beef-steak-260nw-1127568536.jpg"
+        ]
+    },
+
+
+
+
+
+
+
+
+    {
+        "name": "Spaghetti Carbonara",
+        "price": "15.99",
+        "category": "Pasta",
+        "description": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca).",
+        "images": [
+            "https://www.themealdb.com/images/category/pasta.png",
+            "https://media.istockphoto.com/id/585769692/photo/delicious-spaghetti-served-on-a-black-plate.jpg?s=2048x2048&w=is&k=20&c=nrTkIcyFNS48IRSX5wN2kotITntZzlOki9vjyRibf0w=",
+            "https://media.istockphoto.com/id/1475059886/photo/pasta-spaghetti-with-meat-ball-in-tomato-sauce-top-view.jpg?s=2048x2048&w=is&k=20&c=T00SM4dYttca2b3kONvhkcV8FU2Tn_4BEcevUdcGm-Y=",
+            "https://cdn.pixabay.com/photo/2020/01/08/13/13/spaghetti-4750055_1280.jpg"
+        ]
+    },
+    {
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "category": "Pizza",
+        "description": "Traditional Italian pizza topped with tomatoes, fresh mozzarella, and basil.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/28/14/13/ai-generated-8023787_1280.jpg",
+            "https://media.istockphoto.com/id/1414575281/photo/a-delicious-and-tasty-italian-pizza-margherita-with-tomatoes-and-buffalo-mozzarella.jpg?s=2048x2048&w=is&k=20&c=VMgkDRJoTv5VLHO4C4SDis7bD4Oiy39SjnQRGDv56FA=",
+            "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg"
+        ]
+    },
+    {
+        "name": "Cheeseburger",
+        "price": "9.99",
+        "category": "Burgers",
+        "description": "Juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles.",
+        "images": [
+            "https://wallpaperaccess.com/full/1727430.jpg",
+            "https://www.opskrifter.dk/images/recipes/ZzD5mxVWw3HKFO7tvjca5x6nfVsKXzq7Jk5McWtz.jpeg",
+            "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/30/22/55/ai-generated-9010113_1280.jpg"
+        ]
+    },
+    {
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "category": "Salads",
+        "description": "Crisp romaine lettuce, Caesar dressing, croutons, and Parmesan cheese.",
+        "images": [
+            "https://dishingupbalance.com/wp-content/uploads/2016/07/Mixed-Green-Summer-Salad-6.jpg",
+            "https://img.taste.com.au/QaDKlckA/taste/2016/11/fresh-summer-vegetable-salad-91664-1.jpeg",
+            "https://s3.amazonaws.com/img.mynetdiary.com/blog/power-salads.jpg",
+            "https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad-recipes.jpg"
+        ]
+    },
+    {
+        "name": "Chocolate Cake",
+        "price": "6.50",
+        "category": "Desserts",
+        "description": "Rich and moist chocolate cake with a layer of creamy chocolate frosting.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/06/28/06/07/cakes-8858626_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/24/06/17/ai-generated-8993347_1280.jpg",
+            "https://cdn.pixabay.com/photo/2022/11/20/23/33/cake-7605481_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/06/21/12/16/cake-8844261_1280.png"
+        ]
+    },
+    {
+        "name": "Grilled Salmon",
+        "price": "18.99",
+        "category": "Fish",
+        "description": "Perfectly grilled salmon fillet with a side of lemon and herbs.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2024/03/12/20/35/fish-8629510_1280.png",
+            "https://cdn.pixabay.com/photo/2024/05/05/23/00/still-lifes-8742014_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/06/26/21/57/ai-generated-8090928_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2024/08/30/16/26/ai-generated-9009649_1280.png"
+        ]
+    },
+    {
+        "name": "Tiramisu",
+        "price": "5.99",
+        "category": "Desserts",
+        "description": "Traditional Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+        "images": [
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999822_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/01/27/00/35/ai-generated-8534932_1280.jpg",
+            "https://cdn.pixabay.com/photo/2023/05/17/11/04/ai-generated-7999820_1280.jpg",
+            "https://cdn.pixabay.com/photo/2024/02/04/03/41/ai-generated-8551440_1280.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Chicken",
+        "price": "14.99",
+        "category": "chicken",
+        "description": "Grilled chicken is a classic and healthy dish that highlights the natural flavor of the chicken. The chicken is marinated in a blend of olive oil, lemon juice, garlic, herbs (like rosemary or thyme), and spices to infuse it with a zesty, aromatic taste. It's then grilled to perfection, creating a crispy, slightly charred exterior while keeping the meat tender and juicy on the inside. Grilled chicken is often served with vegetables, salad, or rice, making it a versatile option for a nutritious meal.",
+        "images": [
+            "https://grillingsmokingliving.com/wp-content/uploads/2021/07/Grilled-Spatchcock-Chicken-10.jpg",
+            "https://wallpaperaccess.com/full/2836363.jpg",
+            "https://www.gourmetduvillage.com/wp-content/uploads/2017/04/Grilled_Chicken.jpg",
+            "https://www.thecookierookie.com/wp-content/uploads/2023/06/Garlic-Herb-Grilled-Chicken-1-edited-650x867.jpg"
+        ]
+    },
+    {
+        "name": "Chicken Shawarma",
+        "price": "13.50",
+        "category": "chicken",
+        "description": "Chicken Shawarma is a flavorful Middle Eastern dish made by marinating thin slices of chicken in a mixture of yogurt, garlic, lemon juice, and spices such as cumin, coriander, and paprika. The marinated chicken is then roasted on a vertical rotisserie until it’s tender and juicy, often with a slight char on the edges. The chicken is shaved off and typically served in a pita or flatbread, accompanied by toppings like tahini, garlic sauce, pickles, tomatoes, and onions, creating a delicious wrap or sandwich with a burst of bold, savory flavors.",
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=1xw:0.843328335832084xh;center,top&resize=1200:*",
+            "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Shawarma.jpg",
+            "https://diyjoy.com/wp-content/uploads/2022/01/How-to-Make-Chicken-Shawarma-Arabic-Style.jpg",
+            "https://tableandflavor.com/wp-content/uploads/2021/12/7837-chicken-shawarma-recipe-by-tiffin-box.jpg"
+        ]
+    },
+    {
+        "name": "Grilled Beef",
+        "price": "12.75",
+        "category": "Beef",
+        "description": "Grilled beef is a simple and delicious dish made by seasoning regular cuts of beef, like steaks or ribeye, with salt, pepper, and olive oil. The beef is then cooked on a grill or pan at high heat, creating a beautiful sear on the outside while keeping the inside tender and juicy. Depending on your preference, it can be grilled to rare, medium, or well-done. It's often served with sides like vegetables, rice, or potatoes, making it a versatile and filling option for a meal.",
+        "images": [
+            "https://image.shutterstock.com/image-photo/grilled-beef-steak-260nw-1127568536.jpg",
+            "https://thumbs.dreamstime.com/b/beef-steak-grill-flames-67556757.jpg",
+            "https://static3.bigstockphoto.com/0/7/2/large2/270367888.jpg",
+            "https://www.kidney.org/sites/default/files/grilled_marinated_beef_steak.jpg"
+        ]
+    }
+]
